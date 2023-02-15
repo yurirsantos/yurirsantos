@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou desenvolvedor react
+Eu sou um desenvolvedor e CEO da Inside Systems, com mais de 2 anos de experiência no desenvolvimento de software web. Desde jovem, sempre fui apaixonado por tecnologia e códigos, e decidi que queria seguir uma carreira nessa área. Durante meus estudos, aprendi várias tecnologias, mas me apaixonei por React, pela sua versatilidade e facilidade de uso.Acredito que a tecnologia pode mudar o mundo e tenho a sorte de fazer parte disso, trabalhando duro todos os dias para construir aplicativos e sites web que ajudem as pessoas de alguma forma. Eu amo o que faço e espero continuar fazendo isso por muitos anos.
 
 
 ## 🌐 Socials:
